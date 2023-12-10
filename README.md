@@ -9,8 +9,8 @@
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)](https://en.cppreference.com/)
-[![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)](https://en.cppreference.com/)
-
+[![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)](https://www.oracle.com/java/)
+[<img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat" height="25"/>](https://www.oracle.com/java/)
 [![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)](https://www.oracle.com/java/)
 [![SQL Database](https://img.shields.io/badge/-SQL%20Database-4479A1?logo=postgresql&logoColor=white&style=flat)](https://www.postgresql.org/)
 [![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)](https://www.djangoproject.com/)
