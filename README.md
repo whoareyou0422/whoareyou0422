@@ -1,7 +1,7 @@
 ### Hi there welcome to my github profile👋
 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=whoareyou0422&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=whoareyou0422&show_icons=true&theme=ambient_gradient)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
