@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=whoareyou0422&show_icons=true&theme=radical)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
