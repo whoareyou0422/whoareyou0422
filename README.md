@@ -12,7 +12,6 @@
 [![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)](https://www.oracle.com/java/)
 [![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)](https://docs.microsoft.com/en-us/dotnet/csharp/)<br>
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)](https://www.oracle.com/java/)
 [![SQL Database](https://img.shields.io/badge/-SQL%20Database-4479A1?logo=postgresql&logoColor=white&style=flat)](https://www.postgresql.org/)
 [![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)](https://www.djangoproject.com/)
 [![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=flat)](https://developer.android.com/studio)
