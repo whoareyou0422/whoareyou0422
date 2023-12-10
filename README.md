@@ -10,7 +10,7 @@
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)](https://en.cppreference.com/)
 [![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)](https://www.oracle.com/java/)
-[![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)](https://docs.microsoft.com/en-us/dotnet/csharp/)<br>
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)](https://www.oracle.com/java/)
 [![SQL Database](https://img.shields.io/badge/-SQL%20Database-4479A1?logo=postgresql&logoColor=white&style=flat)](https://www.postgresql.org/)
